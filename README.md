@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente trabalhando em YE Gestão de Saúde Frontend<br>🌱 Estudando React.JS e React Native<br> 📫 E-mail para contato: mzoletti@yahoo.com.br
+🔭 Atualmente trabalhando em YE Gestão de Saúde Frontend<br>🌱 Estudando React.JS e React Native<br> 📫 E-mail para contato: mbzoletti@gmail.com
 
 
 ## 🌐 Socials:
